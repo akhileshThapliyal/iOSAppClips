@@ -1,0 +1,16 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "9JFTWCASD6.com.tadpole-labs.Lemonade",
+                "paths": [
+                    "/*"
+                ]
+            }
+        ]
+    },
+    "appclips": {
+        "apps": ["9JFTWCASD6.com.tadpole-labs.Lemonade.Clip"]
+    }
+} 
